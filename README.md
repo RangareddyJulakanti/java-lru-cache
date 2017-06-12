@@ -32,3 +32,4 @@ Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
 # References
 
 1. [Leet Code LRU](http://www.programcreek.com/2013/03/leetcode-lru-cache-java)
+2. [The Magic of LRU Cache (100 Days of Google Dev)](https://www.youtube.com/watch?v=R5ON3iwx78M)
